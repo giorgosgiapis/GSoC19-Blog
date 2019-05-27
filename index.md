@@ -2,7 +2,7 @@
 
 ***Project Title: Improvements of the graph modules***
 
-***Project link: https://summerofcode.withgoogle.com/projects/#5046505600188416***
+***Project URL: [https://summerofcode.withgoogle.com/projects/#5046505600188416](https://www.google.com "GSoC Page")***
 
 ## Introduction
 
