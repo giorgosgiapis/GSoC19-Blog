@@ -1,6 +1,6 @@
 ***Student Name: Georgios Giapitzakis Tzintanos***
 
-***Project Title: Improvements of the graph modules***
+***Project Title: Improvements of the graph module***
 
 ***Project URL: [https://summerofcode.withgoogle.com/projects/#5046505600188416](https://summerofcode.withgoogle.com/projects/#5046505600188416 "GSoC Page")***
 
