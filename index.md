@@ -10,7 +10,7 @@ When I first learned about Google Summer of Code program I had no idea how to co
 
 ## First contribution
 
-Before submitting their final proposals students are asked to make some contribution to SageMath. This contribution can either be reporting a bug, suggesting a feature or fixing an already open issue. I worked on implementing Floyd-Warshall algorithm to compute the all pairs shortest paths in an (un)weighted (un)directed graph. My work can be found in [this](https://trac.sagemath.org/ticket/27518) ticket which is now closed and merged into Sage.
+Before submitting their final proposals students are asked to make some contribution to SageMath. This contribution can be either reporting a bug, suggesting a feature or fixing an already open issue. I worked on implementing Floyd-Warshall algorithm to compute the all pairs shortest paths in an (un)weighted (un)directed graph. My work can be found in [this](https://trac.sagemath.org/ticket/27518) ticket which is now closed and merged into Sage.
 
 ## Project overview
 
