@@ -27,7 +27,7 @@ This project consists of two parts:
 To keep track of all issues SageMath uses a system called [Trac](https://trac.edgewall.org/). All bug/bugfixes and new functionality or enhancements have to be reported through SageMath's Trac wiki. Below you can find all the tickets I issued throughout the GSoC period related to my project along with a short description of what each ticket aims at implementing:
   * [#27875](https://trac.sagemath.org/ticket/27875): (Merged) In this patch all methods related to the computation of line graphs were cythonized
   * [#27882](https://trac.sagemath.org/ticket/27882): (Merged) Just like in the above patch, all methods related to graph coloring were cythonized
-  * [#27928](https://trac.sagemath.org/ticket/27928): (Merged) In this ticket graph traversal Lexicographic DFS (LexDFS)[1][Ref1] was implemented. Also, the existing traversal Lexicographic BFS (LexBFS)[1][Ref1] was re-implemented in Cython in order to achieve better time complexity
+  * [#27928](https://trac.sagemath.org/ticket/27928): (Merged) In this ticket graph traversal Lexicographic DFS (LexDFS)[^1] was implemented. Also, the existing traversal Lexicographic BFS (LexBFS)[^1] was re-implemented in Cython in order to achieve better time complexity
 
 ## Reference
-[Ref1]: http://www.cs.toronto.edu/~krueger/papers/unified.ps "Derek G. Corneil and Richard M. Krueger, A Unified View of Graph Searching"
+[^1]: http://www.cs.toronto.edu/~krueger/papers/unified.ps "Derek G. Corneil and Richard M. Krueger, A Unified View of Graph Searching"
