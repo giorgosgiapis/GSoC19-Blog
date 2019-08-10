@@ -20,7 +20,7 @@ This project consists of two parts:
 
 ## A little bit about Cython
 
-[Cython](https://cython.org/) is a superset of Python that additionaly supports calling C/C++ functions. Using Cython we can obtain really efficient code and that is why cythonizing (rewriting existing Python code into Cython is really important).
+[Cython](https://cython.org/) is a superset of Python that additionally supports calling C/C++ functions. Using Cython we can obtain very efficient code and that is why cythonizing (rewriting existing Python code into Cython) is really important.
 
 ## Contributions related to my project
 
@@ -41,7 +41,7 @@ Participating in Google Summer of Code was definitely a great experience. It is 
 
 ## Conclusion
 
-I would like to thank my mentors for their vital contribution into making this a wonderful experience. Not only did they guide me througout the GSoC period they also offered great help with any technical difficulty that occured and provided great advice on writting better code and good documentation. Finally, I would like to thank Google for giving the opportunity to students all around the world to get to know and engage with open source software development through GSoC.
+I would like to thank my mentors for their vital contribution to making this a wonderful experience. Not only did they guide me throughout the GSoC period they also offered great help with any technical difficulty that occurred and provided great advice on writing better code and good documentation. Finally, I would like to thank Google for giving the opportunity to students all around the world to get to know and engage with open source software development through GSoC.
 
 ## References
 
