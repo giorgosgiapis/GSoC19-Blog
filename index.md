@@ -35,12 +35,21 @@ To keep track of all issues SageMath uses a system called [Trac](https://trac.ed
   
   * [#28271](https://trac.sagemath.org/ticket/28271): (**Needs Review**) The last ticket implements Lexicographic M (LexM) <span id="a3">[[3]](#f3)</span><span id="a4">[[4]](#f4)</span> graph traversal. This traversal is particularly useful since it can be used to obtain a triangulation of a graph.
 
-## Reference
+## Further work
+
+Participating in Google Summer of Code was definitely a great experience. It is my intention to continue contributing to SageMath and possibly other open source projects. As for my project, I am planning on implementing some parts of it that were left out due to limited time. These include the creation of a Tree class and the implementation of some approximation algorithms to solve algorithmically hard problems.
+
+## Conclusion
+
+I would like to thank my mentors for their vital contribution into making this a wonderful experience. Not only did they guide me througout the GSoC period they also offered great help with any technical difficulty that occured and provided great advice on writting better code and good documentation. Finally, I would like to thank Google for giving the opportunity to students all around the world to get to know and engage with open source software development through GSoC.
+
+## References
 
 1. <span id="f1"></span> [Derek G. Corneil and Richard M. Krueger, A Unified View of Graph Searching](http://www.cs.toronto.edu/~krueger/papers/unified.ps) [↩](#a1)
 
-2. <span id="f2"></span> [↩](#a2)
+2. <span id="f2"></span> [Arthur Milchior, (Quasi-)linear time algorithm to compute LexDFS, LexUP
+and LexDown orderings](https://arxiv.org/pdf/1701.00305.pdf) [↩](#a2)
 
-3. <span id="f3"></span> [↩](#a3)
+3. <span id="f3"></span> [Yon Dourisbourea and Cyril Gavoilleb, Tree-decompositions with bags of small diameter](http://dept-info.labri.fr/~gavoille/article/DG07) [↩](#a3)
 
-4. <span id="f4"></span> [↩](#a4)
+4. <span id="f4"></span> Donald J. Rose, R. Endre Tarjan and George S. Lueker, Algorithmic aspects of vertex elimination on graphs [↩](#a4)
