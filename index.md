@@ -25,10 +25,22 @@ This project consists of two parts:
 ## Contributions related to my project
 
 To keep track of all issues SageMath uses a system called [Trac](https://trac.edgewall.org/). All bug/bugfixes and new functionality or enhancements have to be reported through SageMath's Trac wiki. Below you can find all the tickets I issued throughout the GSoC period related to my project along with a short description of what each ticket aims at implementing:
-  * [#27875](https://trac.sagemath.org/ticket/27875): (Merged) In this patch all methods related to the computation of line graphs were cythonized
-  * [#27882](https://trac.sagemath.org/ticket/27882): (Merged) Just like in the above patch, all methods related to graph coloring were cythonized
-  * [#27928](https://trac.sagemath.org/ticket/27928): (Merged) In this ticket graph traversal Lexicographic DFS (LexDFS)<span id="a1">[[1]](#f1)</span> was implemented. Also, the existing traversal Lexicographic BFS (LexBFS)<span id="a1">[[1]](#f1)</span> was re-implemented in Cython in order to achieve better time complexity
+  * [#27875](https://trac.sagemath.org/ticket/27875): (**Merged**) In this patch all methods related to the computation of line graphs were cythonized
+  
+  * [#27882](https://trac.sagemath.org/ticket/27882): (**Merged**) Just like in the above patch, all methods related to graph coloring were cythonized
+  
+  * [#27928](https://trac.sagemath.org/ticket/27928): (**Merged**) In this ticket graph traversal Lexicographic DFS (LexDFS) <span id="a1">[[1]](#f1)</span> was implemented. Also, the existing traversal Lexicographic BFS (LexBFS) <span id="a1">[[1]](#f1)</span> was re-implemented in Cython in order to achieve better time complexity
+  
+  * [#28195](https://trac.sagemath.org/ticket/28195): (**Merged**) In this patch Lexicographic UP (LexUP) and Lexicographic DOWN (LexDOWN) <span id="a2">[[2]](#f2)</span> graph traversals were implemented
+  
+  * [#28271](https://trac.sagemath.org/ticket/28271): (**Needs Review**) The last ticket implements Lexicographic M (LexM) <span id="a3">[[3]](#f3)</span><span id="a4">[[4]](#f4)</span> graph traversal. This traversal is particularly useful since it can be used to obtain a triangulation of a graph.
 
 ## Reference
 
 1. <span id="f1"></span> [Derek G. Corneil and Richard M. Krueger, A Unified View of Graph Searching](http://www.cs.toronto.edu/~krueger/papers/unified.ps) [↩](#a1)
+
+2. <span id="f2"></span> [↩](#a2)
+
+3. <span id="f3"></span> [↩](#a3)
+
+4. <span id="f4"></span> [↩](#a4)
