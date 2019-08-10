@@ -30,4 +30,4 @@ To keep track of all issues SageMath uses a system called [Trac](https://trac.ed
   * [#27928](https://trac.sagemath.org/ticket/27928): (Merged) In this ticket graph traversal Lexicographic DFS (LexDFS)[^1] was implemented. Also, the existing traversal Lexicographic BFS (LexBFS)[^1] was re-implemented in Cython in order to achieve better time complexity
 
 ## Reference
-[^1]: http://www.cs.toronto.edu/~krueger/papers/unified.ps "Derek G. Corneil and Richard M. Krueger, A Unified View of Graph Searching"
+[^1] [Derek G. Corneil and Richard M. Krueger, A Unified View of Graph Searching](http://www.cs.toronto.edu/~krueger/papers/unified.ps)
