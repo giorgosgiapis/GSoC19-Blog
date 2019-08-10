@@ -29,5 +29,8 @@ To keep track of all issues SageMath uses a system called [Trac](https://trac.ed
   * [#27882](https://trac.sagemath.org/ticket/27882): (Merged) Just like in the above patch, all methods related to graph coloring were cythonized
   * [#27928](https://trac.sagemath.org/ticket/27928): (Merged) In this ticket graph traversal Lexicographic DFS (LexDFS)[^1] was implemented. Also, the existing traversal Lexicographic BFS (LexBFS)[^1] was re-implemented in Cython in order to achieve better time complexity
 
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
 ## Reference
 [^1]: [Derek G. Corneil and Richard M. Krueger, A Unified View of Graph Searching](http://www.cs.toronto.edu/~krueger/papers/unified.ps)
