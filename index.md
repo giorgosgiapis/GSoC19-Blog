@@ -41,7 +41,7 @@ Participating in Google Summer of Code was definitely a great experience. It is 
 
 ## Conclusion
 
-I would like to thank my mentors for their vital contribution to making this a wonderful experience. Not only did they guide me throughout the GSoC period they also offered great help with any technical difficulty that occurred and provided great advice on writing better code and good documentation. Finally, I would like to thank Google for giving the opportunity to students all around the world to get to know and engage with open source software development through GSoC.
+I would like to thank my mentors for their vital contribution to making this a wonderful experience. Not only did they guide me throughout the GSoC period, they also offered great help with any technical difficulty that occurred and provided great advice on writing better code and good documentation. Finally, I would like to thank Google for giving the opportunity to students all around the world to get to know and engage with open source software development through GSoC.
 
 ## References
 
