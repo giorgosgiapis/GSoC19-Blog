@@ -45,11 +45,11 @@ I would like to thank my mentors for their vital contribution into making this a
 
 ## References
 
-1. <span id="f1"></span> [Derek G. Corneil and Richard M. Krueger, A Unified View of Graph Searching](http://www.cs.toronto.edu/~krueger/papers/unified.ps) [↩](#a1)
+1. <span id="f1"></span> [Derek G. Corneil and Richard M. Krueger. A Unified View of Graph Searching](http://www.cs.toronto.edu/~krueger/papers/unified.ps) [↩](#a1)
 
-2. <span id="f2"></span> [Arthur Milchior, (Quasi-)linear time algorithm to compute LexDFS, LexUP
+2. <span id="f2"></span> [Arthur Milchior. (Quasi-)linear time algorithm to compute LexDFS, LexUP
 and LexDown orderings](https://arxiv.org/pdf/1701.00305.pdf) [↩](#a2)
 
-3. <span id="f3"></span> [Yon Dourisbourea and Cyril Gavoilleb, Tree-decompositions with bags of small diameter](http://dept-info.labri.fr/~gavoille/article/DG07) [↩](#a3)
+3. <span id="f3"></span> [Yon Dourisbourea and Cyril Gavoilleb. Tree-decompositions with bags of small diameter](http://dept-info.labri.fr/~gavoille/article/DG07) [↩](#a3)
 
-4. <span id="f4"></span> Donald J. Rose, R. Endre Tarjan and George S. Lueker, Algorithmic aspects of vertex elimination on graphs [↩](#a4)
+4. <span id="f4"></span> Donald J. Rose, R. Endre Tarjan and George S. Lueker. Algorithmic aspects of vertex elimination on graphs [↩](#a4)
