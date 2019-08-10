@@ -31,4 +31,4 @@ To keep track of all issues SageMath uses a system called [Trac](https://trac.ed
 
 ## Reference
 
-1. <span id="f1"></span> [Derek G. Corneil and Richard M. Krueger, A Unified View of Graph Searching](http://www.cs.toronto.edu/~krueger/papers/unified.ps) [$\hookleftarrow$](#a1)
+1. <span id="f1"></span> [Derek G. Corneil and Richard M. Krueger, A Unified View of Graph Searching](http://www.cs.toronto.edu/~krueger/papers/unified.ps) [↩](#a1)
