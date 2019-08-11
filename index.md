@@ -15,7 +15,9 @@ Before submitting their final proposals students are asked to make some contribu
 ## Project overview
 
 This project consists of two parts:
+
   * Cythonize some of the current methods which are slow
+  
   * Improve graph traversals and possibly add new ones
 
 ## A little bit about Cython
