@@ -31,7 +31,7 @@ To keep track of all issues SageMath uses a system called [Trac](https://trac.ed
   
   * [#27882](https://trac.sagemath.org/ticket/27882): (**Merged**) Just like in the above patch, all methods related to graph coloring were cythonized
   
-  * [#27928](https://trac.sagemath.org/ticket/27928): (**Merged**) In this ticket graph traversal Lexicographic DFS (LexDFS) <span id="a1">[[1]](#f1)</span> was implemented. Also, the existing traversal Lexicographic BFS (LexBFS) <span id="a1">[[1]](#f1)</span> was re-implemented in Cython in order to achieve better time complexity
+  * [#27928](https://trac.sagemath.org/ticket/27928): (**Merged**) In this ticket graph traversal Lexicographic DFS (LexDFS) <span id="a1">[[1]](#f1)</span> was implemented. Also, the existing traversal Lexicographic BFS (LexBFS) <span id="a1">[[1]](#f1)</span> was re-implemented in Cython in order to achieve better time complexity. Lexicographic BFS is a very important algorithm since we can check if a graph is [chordal](https://en.wikipedia.org/wiki/Chordal_graph) just by examining the ordering produced by LexBFS. With a good implementation of the traversal this can be achieved in linear time.
   
   * [#28195](https://trac.sagemath.org/ticket/28195): (**Merged**) In this patch Lexicographic UP (LexUP) and Lexicographic DOWN (LexDOWN) <span id="a2">[[2]](#f2)</span> graph traversals were implemented
   
@@ -39,7 +39,7 @@ To keep track of all issues SageMath uses a system called [Trac](https://trac.ed
 
 ## Further work
 
-Participating in Google Summer of Code was definitely a great experience. It is my intention to continue contributing to SageMath and possibly other open source projects. As for my project, I am planning on implementing some parts of it that were left out due to limited time. These include the creation of a Tree class and the implementation of some approximation algorithms to solve algorithmically hard problems.
+Participating in Google Summer of Code was definitely a great experience. I learned how open source projects work, how to write efficient and easy to read and maintain code and I was given the chance to understand and implement some very sophisticated algorithms through several research papers. That's why I intend to continue contributing to SageMath and possibly other open source projects. As for my project, I am planning on implementing some parts of it that were left out due to limited time. These include the creation of a Tree class and the implementation of some approximation algorithms to solve algorithmically hard problems.
 
 ## Conclusion
 
