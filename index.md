@@ -35,7 +35,7 @@ To keep track of all issues SageMath uses a system called [Trac](https://trac.ed
   
   * [#28195](https://trac.sagemath.org/ticket/28195): (**Merged**) In this patch Lexicographic UP (LexUP) and Lexicographic DOWN (LexDOWN) <span id="a2">[[2]](#f2)</span> graph traversals were implemented
   
-  * [#28271](https://trac.sagemath.org/ticket/28271): (**Positive Review**) The last ticket implements Lexicographic M (LexM) <span id="a3">[[3]](#f3)</span><span id="a4">[[4]](#f4)</span> graph traversal. This traversal is particularly useful since it can be used to obtain a triangulation of a graph.
+  * [#28271](https://trac.sagemath.org/ticket/28271): (**Merged**) The last ticket implements Lexicographic M (LexM) <span id="a3">[[3]](#f3)</span><span id="a4">[[4]](#f4)</span> graph traversal. This traversal is particularly useful since it can be used to obtain a triangulation of a graph.
 
 ## Further work
 
