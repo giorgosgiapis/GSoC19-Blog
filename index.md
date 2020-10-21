@@ -39,7 +39,7 @@ To keep track of all issues SageMath uses a system called [Trac](https://trac.ed
 
 ## Further work
 
-Participating in Google Summer of Code was definitely a great experience. I learned how open source projects work, how to write efficient and easy to read and maintain code and I was given the chance to understand and implement some very sophisticated algorithms through several research papers. That's why I intend to continue contributing to SageMath and possibly other open source projects. As for my project, I am planning on implementing some parts of it that were left out due to limited time. These include the creation of a Tree class and the implementation of some approximation algorithms to solve algorithmically hard problems.
+Participating in Google Summer of Code was definitely a great experience. I learned how open source projects work, how to write efficient and easy to read and maintain code and I was given the chance to better understand and implement some very sophisticated algorithms through several research papers. That's why I intend to continue contributing to SageMath and possibly other open source projects. As for my project, I am planning on implementing some parts of it that were left out due to limited time. These include the creation of a Tree class and the implementation of some approximation algorithms to solve algorithmically hard problems.
 
 ## Conclusion
 
